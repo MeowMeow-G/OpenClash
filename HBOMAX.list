@@ -49,4 +49,9 @@ DOMAIN-SUFFIX,default.beam-any.prd.api.max.com
 DOMAIN-SUFFIX,default.beam-amer.prd.api.max.com
 DOMAIN-SUFFIX,default.beam-amer.use.prd.api.max.com
 DOMAIN-SUFFIX,events.prd.api.max.com
-USER-AGENT,HBOMAX*
+user-agent, HBOAsia*, Max
+host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
+host-wildcard, hboasia*-i.akamaihd.net, Max
+host-suffix, s3-ap-southeast-1.amazonaws.com, Max
+host-suffix, max.com, Max
+host-suffix, discomax.com, Max
